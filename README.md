@@ -1,52 +1,91 @@
-👥 HR Attrition Analysis Dashboard (Power BI Project)
+
+👥 HR Attrition Analysis Dashboard
+
+(Power BI Project)
 
 🎯 Objective
 
-This project aims to analyze employee attrition trends to help HR leaders understand why employees leave the company, who leaves more, and when attrition happens most frequently.
-The dashboard provides data-driven insights to improve employee retention, engagement, and workforce planning.
+The objective of this project is to analyze employee attrition patterns and identify key factors influencing employee turnover.
+Using HR data, this dashboard helps HR teams understand who is leaving, from which roles, at what stage of employment, and why, enabling data-driven retention and workforce planning strategies.
+
+
+---
+
+📊 Dashboard Overview
+
+The dashboard presents a comprehensive view of employee attrition through KPIs and visual analysis, covering:
+
+Overall attrition performance
+
+Attrition by age group, salary slab, education background, and job role
+
+Employee tenure analysis to identify early-exit risks
+
 
 
 ---
 
 🔍 Key Insights
 
-Identifies the primary reasons behind employee attrition, such as work environment, salary, or job satisfaction.
+Overall attrition rate is approximately 16%, indicating a noticeable level of employee turnover that needs targeted HR intervention.
 
-Shows which departments experience the highest turnover rates.
+Employees in the 26–35 age group show the highest attrition, suggesting that early-career professionals are more likely to switch jobs for growth or compensation opportunities.
 
-Highlights demographic patterns (like age group, gender, or job role) linked to higher attrition.
+Employees in lower salary slabs experience the maximum attrition, highlighting compensation as a major factor behind employee exits.
 
-Reveals time-based trends — when attrition peaks (e.g., during specific months or years).
+Life Sciences and Medical education backgrounds contribute the highest number of attritions, pointing toward domain-specific retention challenges.
 
-Helps HR teams focus on targeted retention strategies for at-risk employee groups.
+Laboratory Technicians and Sales Executives are the most impacted job roles, indicating role-related workload, pressure, or job satisfaction issues.
 
+Attrition is highest within the first 1–3 years of employment, showing that employees are most vulnerable to leaving during their early tenure.
 
-
----
-
-⚙️ Tools & Technologies
-
-Power BI Desktop – Data modeling and dashboard creation
-
-Excel / CSV – Data cleaning and preparation
-
-GitHub – Version control and portfolio sharing
+Lower job satisfaction levels are strongly associated with higher attrition, emphasizing the importance of workplace engagement and employee experience.
 
 
 
 ---
 
-🚀 Features
+📈 Business Value & Use Cases
 
-Interactive filters for department, age group, and job role
+This dashboard enables HR teams to:
 
-KPI cards showing attrition rate, average age, and total employees
+Identify high-risk employee segments early
 
-Trend analysis for attrition over time
+Improve retention strategies for critical job roles
 
-Department-wise attrition breakdown for easy comparison
+Redesign compensation structures for lower salary bands
 
-Data-driven visuals for HR decision-making and forecasting
+Strengthen onboarding and early-career engagement programs
+
+Support data-backed workforce planning and HR policy decisions
+
+
+
+---
+
+⚙️ Tools & Technologies Used
+
+Power BI Desktop – Data modeling, DAX measures, and interactive dashboard development
+
+Excel / CSV – Data cleaning, transformation, and preparation
+
+GitHub – Project version control and portfolio presentation
+
+
+
+---
+
+🚀 Key Features
+
+Interactive slicers for age group, job role, education, and salary slab
+
+KPI cards displaying total employees, attrition count, attrition rate, and average age
+
+Role-wise and salary-wise attrition comparison
+
+Tenure-based attrition trend analysis
+
+Clean and intuitive visuals designed for HR decision-makers
 
 
 
@@ -54,4 +93,21 @@ Data-driven visuals for HR decision-making and forecasting
 
 💡 Outcome
 
-The dashboard empowers HR leaders to make informed decisions by uncovering the key factors driving employee turnover and identifying areas where strategic HR action can improve retention and workplace satisfaction.
+This project transforms raw HR data into actionable insights that help organizations reduce employee turnover.
+By clearly identifying who leaves, when they leave, and which roles are most affected, the dashboard supports strategic HR actions to improve retention, employee satisfaction, and organizational stability.
+
+
+---
+
+If you want, I can now:
+
+Create a short 2–3 line README summary
+
+Write a resume bullet for this project
+
+Optimize this README for ATS + recruiters
+
+Add a “Business Problem Statement” section
+
+
+Just tell me 👍
